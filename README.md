@@ -1,77 +1,36 @@
-# BragBook 2026
+# Brag Book 2026 (In Progress, will be updated)
 
 
-## Projects and work done in 2026 (bragbook started at beginning of september 2024).
+### Marketing Trainee Program (01.2026 – 07.2026)
+**Objective:** Recruit, onboard, and supervise a marketing trainee with clear deliverables and structured follow-up.
+- Owned end-to-end recruitment: job posting, sourcing pipeline, and interviewing candidates.
+- Selected and recruited the trainee; ensured smooth onboarding and role clarity.
+- Defined the internship operating model: task list, project plan, documentation, and deliverables definition.
+- Supervised the internship execution with weekly feedback loops and deliverable quality control.
 
 
-### Marketing Trainee (01.2026 - 07.2026)
-- Job posting
-- interviewing dozens of candidats
-- recruiting trainee
-- wrote the stage tasks, project planner and documentation, et définition des livrables.
-- Supervisé le stage
-- retour hebdomadaire
-- controle des livrables
-- Passed state certification to become an apprentice trainer.
-We have been awarded the ‘Entreprise Formatrice’ label.
+### HR Campaign Support (01.2026 – 02.2026)
+**Objective:** Execute high-volume first-pass screening and enable final selection by the sector manager.
+- Manually processed thousands of resumes (no automation/ATS dependency).
+- Produced the first selection shortlist based on defined criteria.
+- Coordinated handoff to the sector manager for final selection and hiring decisions.
 
 
-### HR Campaign (01.2026 - 02.2026)
-- single handedly parse thousands of resume
-- first selection of candidats
-- transmissions to sector manager for ultimate selection and hiring
+### B Corp Certification — Assessment Submission (02.2026)
+**Objective:** Complete the B Impact Assessment and formally initiate the certification process.
+- Completed the B Corp evaluation and submitted the assessment to start the certification workflow.
 
+**Outcome:** certification process formally initiated (submission completed).
 
-### BCorp label soumission (02.2026)
-J'ai terminé l'évaluation BCorp et soumis l'évaluation pour démarrer le processus de certification.
+### Google Project Management Professional Certificate (01.2026 – 06.2026)
+- Covered and practiced core frameworks: Agile, Scrum, Waterfall (and related PM tools/methods).
 
-### Google Project Management professional certificate (01.2026 - 06.2026)
- - Agile
- - Scrum
- - Waterfall
- - etc.
+**Outcome:** reinforced my PM rigor for cross-functional projects and implementations.
 
-## Quality control for various customers using Team Forms (01.2026 - 02.2026)
--
-  
+### Quality Control Digitalization (Teams Forms) (01.2026 – 02.2026)
+- Performed quality control formular using Teams Forms, ensuring consistent capture and traceability across customers.
 
-## Power Automate flows (02.2026)
-- Mapped the IT system to provide a clear view of applications, infrastructure, and dependencies.
-- Conducted comprehensive inventories of licenses and equipment, ensuring compliance and cost control.
-- Created structured OneNote notebooks using a decimal filing system, improving documentation quality, accessibility, and consistency.
-
-
-
-## What I learned
-
-
-## Goals for 2026
-- Deployment Gekos for planification and daily operational operations.
-- MDM Deployments for mobile devices
-- Burning to the ground the Access database still in use.
-- Same for the misused Excel files.
-
-## Projects and work done in 2025
-
-
-
-### Data management
-- Documented and modelled all company processes using BPMN 2.0 methodology, identifying bottlenecks and proposing improvements or automation opportunities.
-- Created and maintained repositories in SharePoint and OneNote to track infrastructure changes and ensure knowledge traceability.
-- Established a logical classification and filing structure (decimal method) across tools (SharePoint, OneNote, ERP) to standardize documentation and facilitate retrieval.
-- Developed internal compliance and HR documents (Code of Conduct, Internal Regulation, GDPR notice, Social Security notice, legal information memo) ensuring alignment with legal and regulatory frameworks.
-- Acted as Data Steward, monitoring data flows, guaranteeing integrity, and supporting the sustainability rating upgrade (from D to B) by providing structured, reliable datasets.
-- Supported ERP transition (GekOS) by testing modules, suggesting improvements, and ensuring that process documentation matched the new system’s logic.
-
-
-## What I learned
-- I absolutely abhor lazy HR people who rely exclusively on ATS to do their work with every fibre of my being.
-- Data management is my strong suit → Process modelling, classification systems, and documentation bring clarity and structure, and I enjoy driving improvements in this area.
-- ERP projects are messy but rewarding → Beta testing, negotiating with vendors, and aligning tools with business processes requires, persistence, and diplomacy.
-- Compliance adds weight but builds trust → Writing internal regulations, GDPR notices, and codes of conduct made me realize how essential clear governance is.
-- Safety matters → QHSE training reminded me that workplace safety is not a box-ticking exercise but an ongoing awareness effort. And you can avoid people being killed.
-- Sustainability is a long game → Upgrading ratings and launching certifications (B Corp, labels) is less about quick wins and more about steady, structured progress.
-- No-code ≠ no effort → Tools that promise simplicity still demand technical adaptability and a problem-solving mindset.
-
-
+### Power Automate Flows (02.2026)
+- Built Power Automate flows to streamline internal/external processes (details to be appended as modules/use cases are finalized).
+- Auto sending report to external stake holders.
 
