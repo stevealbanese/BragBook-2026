@@ -34,7 +34,7 @@
 - Built Power Automate flows to streamline internal/external processes (details to be appended as modules/use cases are finalized).
 - Auto sending report to external stake holders.
 
-QHSE – Prevention & Occupational Safety (02.2026 – 04.2026)
+### QHSE – Prevention & Occupational Safety (02.2026 – 04.2026)
 
 Focused on QHSE priorities, particularly prevention and health & safety at work, by updating and improving the company’s operational safety documentation.
 
