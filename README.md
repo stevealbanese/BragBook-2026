@@ -34,3 +34,14 @@
 - Built Power Automate flows to streamline internal/external processes (details to be appended as modules/use cases are finalized).
 - Auto sending report to external stake holders.
 
+QHSE – Prevention & Occupational Safety (02.2026 – 04.2026)
+
+Focused on QHSE priorities, particularly prevention and health & safety at work, by updating and improving the company’s operational safety documentation.
+
+Revised and updated the safety binders / security workbooks used for service deployment to ensure consistency, relevance, and compliance with operational needs.
+
+Strengthened prevention documentation to improve risk awareness and support safer working practices in the field.
+
+Helped structure health and safety information so that it could be more easily used by operational teams and management.
+
+Contributed to the continuous reinforcement of the company’s safety culture through practical documentation and prevention-focused improvements.
