@@ -58,7 +58,7 @@ Contributed to the continuous reinforcement of the company’s safety culture th
 - Provided go-live support to facilitate adoption and reduce friction in day-to-day operations.
 - Coordinated across data preparation, testing, and user support to improve deployment quality.
 
-###my whole contribution during the dev (long list, skip  to next section if not interested) :
+### my whole contribution during the dev (long list, skip  to next section if not interested) :
 
 ### Bugs
 
