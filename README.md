@@ -1,5 +1,4 @@
-# Brag Book 2026 (In Progress, will be updated)
-
+# Brag Book 2026
 
 ### Marketing Trainee Program (01.2026 – 07.2026)
 **Objective:** Recruit, onboard, and supervise a marketing trainee with clear deliverables and structured follow-up.
@@ -166,12 +165,7 @@ Contributed to the continuous reinforcement of the company’s safety culture th
 - **“Night” badge** — Added night-shift badge indicator.
 
 
-
-# Project Management, Organisational Development and Data Governance
-
-**Steve Albanese | OMNISERVICE | May to November 2026**
-
-My contribution focused on translating operational needs into structured projects, shared processes and reliable business information. I combined business analysis, project coordination, application delivery and information governance to give management and operational teams practical tools for organising their work.
+The second part of the year, my contribution focused on translating operational needs into structured projects, shared processes and reliable business information. I combined business analysis, project coordination, application delivery and information governance to give management and operational teams practical tools for organising their work.
 
 ### Quality Management Programme and Implementation Roadmap (05.2026 – 11.2026)
 
